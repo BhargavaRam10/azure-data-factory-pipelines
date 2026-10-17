@@ -1,0 +1,1 @@
+{"name":"ls_blob","properties":{"annotations":["placeholder — no real credentials in this repo"],"type":"AzureBlobStorage","typeProperties":{"connectionString":{"secretName":"blob-connection-string","store":{"referenceName":"ls_keyvault","type":"LinkedServiceReference"},"type":"AzureKeyVaultSecret"}}}}

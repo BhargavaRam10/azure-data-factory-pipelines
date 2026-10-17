@@ -1,0 +1,1 @@
+{"name":"ls_api","properties":{"annotations":["placeholder — the API key travels as a pipeline parameter from Key Vault, never hardcoded"],"parameters":{"apiKey":{"defaultValue":"YOUR_API_KEY","type":"string"}},"type":"HttpServer","typeProperties":{"authenticationType":"Anonymous","enableServerCertificateValidation":true,"url":"https://api.example.com"}}}
